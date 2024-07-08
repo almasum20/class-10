@@ -1,0 +1,12 @@
+body {
+    font-family: arial, tahoma, sans-serif;
+}
+h1 {
+    color: red;
+    margin-top: 2rem;
+    text-shadow: 0 0 3px #00ff1a, 0 0 5px #0000FF, 0 0 4px rgb(0, 255, 255);
+   
+}
+div p {
+   
+}
